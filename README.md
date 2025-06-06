@@ -1,5 +1,3 @@
-
-
 ###
 
 <h1 align="center">Hi 👋, I'm Divyansh Bhola</h1>
