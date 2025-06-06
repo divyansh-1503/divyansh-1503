@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Divyansh Bhola Banner" width="100%" />
+  <img src="(https://github.com/divyansh-1503/divyansh-1503/blob/681117d0526eb2d2954132c58ce48bb75ec5a9a3/Untitled.png)" alt="Divyansh Bhola Banner" width="100%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Divyansh Bhola</h1>
