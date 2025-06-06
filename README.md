@@ -1,12 +1,15 @@
-<h1 align="center">Hi 👋, I'm Divyansh Bhola</h1>
-<h3 align="center">A passionate Learner</h3>
 
-- 🔭 I’m currently working on **Data Structures and Algorithms**.
-- 🌱 I’m currently learning **Problem Solving**.
-- 👯 I’m looking to collaborate on **projects that solve real-world problems**.
-- 🤝 I’m looking for help with **JAVA based projects**.
-- 👨‍💻 All of my projects are available at [https://github.com/divyansh-1503](https://github.com/divyansh-1503).
-- 📫 How to reach me: **divyansh.bhola5464@gmail.com**
+
+###
+
+<h1 align="center">Hi 👋, I'm Divyansh Bhola</h1>
+<h3 align="center">A dedicated self-learner.</h3>
+
+---
+
+<h3 align="left">👩‍💻 About Me</h3>
+
+<p align="left">I'm Divyansh Bhola, A software enthusiast dedicated to learn and grow.<br><br>- 🔭 I’m currently working on my skills in Data Structures and Algorithms.<br>- 🌱 I’m currently learning to solve real world problems with the help of my coding skills.<br>- ⚡ In my free time, I like to explore new technologies and work on personal projects.</p>
 
 ---
 
@@ -18,15 +21,19 @@
 
 ---
 
-### Languages and Tools:
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    </a> 
-</p>
+<h3 align="left">🛠 Languages and Tools</h3>
+
+<div align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+</div>
 
 ---
 
-### GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyansh-1503&show_icons=true&locale=en" alt="divyansh-1503" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh-1503&theme=dark" alt="divyansh-1503-streak" /></p>
+<h3 align="left">🔥 My Stats :</h3>
+
+<div align="center">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyansh-1503&show_icons=true&locale=en" alt="divyansh-1503" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh-1503&theme=dark" alt="divyansh-1503-streak" /></p>
+</div>
