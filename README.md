@@ -36,6 +36,5 @@
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyansh-1503&show_icons=true&locale=en" alt="divyansh-1503" /></p>
-    <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh-1503&theme=dark" alt="divyansh-1503-streak" /></p>
+      <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh-1503&theme=dark" alt="divyansh-1503-streak" /></p>
 </div>
