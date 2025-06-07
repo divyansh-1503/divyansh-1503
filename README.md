@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/divyansh-1503/divyansh-1503/blob/main/Untitled.png" alt="Divyansh Bhola Banner" width="100%" />
+  <img src="https://github.com/divyansh-1503/divyansh-1503/blob/main/Untitled(1).png" alt="Divyansh Bhola Banner" width="100%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Divyansh Bhola</h1>
