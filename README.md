@@ -17,8 +17,8 @@
 
 ### Connect with me:
 <p align="left">
-    <a href="https://linkedin.com/in/www.linkedin.com/in/divyansh-bhola/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Divyansh Bhola LinkedIn" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/https://leetcode.com/u/divyansh5464/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Divyansh Bhola LeetCode" height="30" width="40" /></a>
+    <a href="linkedin.com/in/divyansh-bhola/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Divyansh Bhola LinkedIn" height="30" width="40" /></a>
+    <a href="leetcode.com/u/divyansh5464/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Divyansh Bhola LeetCode" height="30" width="40" /></a>
 </p>
 
 ---
