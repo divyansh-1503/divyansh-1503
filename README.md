@@ -27,7 +27,7 @@
 
 <div align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" ,width=40,height=40,alt="java"/>
     </a>
 </div>
 
