@@ -27,7 +27,7 @@
 
 <div align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java"/>
     </a>
 </div>
 
@@ -36,5 +36,5 @@
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-      <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/https://github.com/divyansh-1503?user=divyansh-1503&theme=dark" alt="divyansh-1503-streak" /></p>
+      <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh-1503&theme=dark" alt="divyansh-1503-streak" /></p>
 </div>
