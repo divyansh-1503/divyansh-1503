@@ -47,7 +47,5 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyansh-1503&show_icons=true&theme=radical" alt="Divyansh Bhola GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh-1503&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=divyansh-1503&show_icons=true&theme=github_dark&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&bg_color=000000" alt="Divyansh Bhola GitHub Stats" />
 </div>
