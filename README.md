@@ -44,6 +44,3 @@
 
 ---
 
-<div align="center">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh-1503&theme=dark" alt="divyansh-1503-streak" />
-</div>
