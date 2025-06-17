@@ -52,7 +52,7 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyansh-1503&theme=default&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="Divyansh Bhola GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=divyansh-1503&theme=dark" alt="Divyansh Bhola GitHub Stats" />
   <br><br>
-  <img src="https://streak-stats.demolab.com/?user=divyansh-1503&theme=black-ice&hide_border=true&background=000000&ring=FFFFFF&currStreakLabel=FFFFFF&fire=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="Divyansh Bhola GitHub Streak Stats" />
+  
 </div>
