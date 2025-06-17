@@ -9,8 +9,9 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-<p align="left">I'm Divyansh Bhola, a software enthusiast dedicated to learn and grow.<br><br>- 🔭 I’m currently working on my skills in Data Structures and Algorithms.
-- 🌱 I’m currently learning to solve real world problems with the help of my coding skills.
+<p align="left">I'm Divyansh Bhola, a software enthusiast dedicated to learn and grow.<br><br>
+- 🔭 I’m currently working on my skills in Data Structures and Algorithms.<br>
+- 🌱 I’m currently learning to solve real world problems with the help of my coding skills.<br>
 - ⚡ In my free time, I like to explore new technologies and work on personal projects.</p>
 
 ---
@@ -27,7 +28,6 @@
     </a>
 </p>
 
-
 <div align="center">
   <a href="https://leetcode.com/u/divyansh5464/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/divyansh5464?theme=dark" alt="Divyansh Bhola LeetCode Stats" />
@@ -39,8 +39,15 @@
 <h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="left">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/>
 </div>
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divyansh-1503&show_icons=true&theme=radical" alt="Divyansh Bhola GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh-1503&layout=compact&theme=radical" alt="Top Languages" />
+</div>
