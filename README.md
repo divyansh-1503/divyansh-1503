@@ -63,7 +63,7 @@
   <summary><strong>📁 Arrays</strong></summary>
 
 -<ul>
-  <li> <span style="color:green">●</span> <a href="./Arrays/TwoSum.java">TwoSum.java</a> </li>
+  <li> <span style="color:green">●</span> <a href="LEETCODE/ARRAYS/two-sum.java">TwoSum.java</a> </li>
   <li> <span style="color:blue">●</span> <a href="./Arrays/BestTimeToBuySellStock.js">BestTimeToBuySellStock.js</a> </li>
 </ul>
 
