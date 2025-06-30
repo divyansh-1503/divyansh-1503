@@ -49,14 +49,4 @@
 
 ---
 
-## Repository Structure
----
-◻️ ARRAYS
- 🟠[two-sum.java](LEETCODE/ARRAYS/two-sum.java)
- 🟠
- 🟠
- 🟠
- 🟠
- 🟠
- 🟠
- 🟠
+
