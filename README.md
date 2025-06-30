@@ -17,7 +17,6 @@
 
 ---
 
-
 ### Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/divyansh-bhola/" target="_blank">
@@ -49,24 +48,3 @@
 </div>
 
 ---
-
-### ✅📚 Topics Covered
-
-- ✅ Arrays  
-- ✅ Linked Lists  
-
----
-
-### 📂 Repository Structure
-
-<details>
-  <summary><strong>📁 Arrays</strong></summary>
-
--<ul>
-  <li> <span style="color:green">●</span> <a href="LEETCODE/ARRAYS/two-sum.java">TwoSum.java</a> </li>
-  <li> <span style="color:blue">●</span> <a href="./Arrays/BestTimeToBuySellStock.js">BestTimeToBuySellStock.js</a> </li>
-</ul>
-
-</details>
-
-
