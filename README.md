@@ -17,26 +17,6 @@
 
 ---
 
-### ✅📚 Topics Covered
-
-- ✅ Arrays  
-- ✅ Linked Lists  
-
----
-
-### 📂 Repository Structure
-
-<details>
-  <summary><strong>📁 Arrays</strong></summary>
-
-- 🟢 [TwoSum.java](LEETCODE/ARRAYS/two-sum.java)  
-- 🔵 [BestTimeToBuySellStock.js](LEETCODE/ARRAYS/best-time-to-buy-and-sell-stock.java)
-
-</details>
-
-
-
----
 
 ### Connect with me:
 <p align="left">
@@ -67,3 +47,24 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/>
 </div>
+
+---
+
+### ✅📚 Topics Covered
+
+- ✅ Arrays  
+- ✅ Linked Lists  
+
+---
+
+### 📂 Repository Structure
+
+<details>
+  <summary><strong>📁 Arrays</strong></summary>
+
+- 🟢 [TwoSum.java](LEETCODE/ARRAYS/two-sum.java)  
+- 🔵 [BestTimeToBuySellStock.js](LEETCODE/ARRAYS/best-time-to-buy-and-sell-stock.java)
+
+</details>
+
+
