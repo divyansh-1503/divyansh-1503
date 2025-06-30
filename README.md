@@ -62,8 +62,10 @@
 <details>
   <summary><strong>📁 Arrays</strong></summary>
 
-- 🟢 [TwoSum.java](LEETCODE/ARRAYS/two-sum.java)  
-- 🔵 [BestTimeToBuySellStock.js](LEETCODE/ARRAYS/best-time-to-buy-and-sell-stock.java)
+-<ul>
+  <li> <span style="color:green">●</span> <a href="./Arrays/TwoSum.java">TwoSum.java</a> </li>
+  <li> <span style="color:blue">●</span> <a href="./Arrays/BestTimeToBuySellStock.js">BestTimeToBuySellStock.js</a> </li>
+</ul>
 
 </details>
 
