@@ -29,8 +29,8 @@
 <details>
   <summary><strong>📁 Arrays</strong></summary>
 
-- 🟢 [TwoSum.java](ARRAYS/two-sum.java)  
-- 🔵 [BestTimeToBuySellStock.js](ARRAYS/best-time-to-buy-and-sell-stock.java)
+- 🟢 [TwoSum.java](LEETCODE/ARRAYS/two-sum.java)  
+- 🔵 [BestTimeToBuySellStock.js](LEETCODE/ARRAYS/best-time-to-buy-and-sell-stock.java)
 
 </details>
 
