@@ -49,10 +49,3 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyansh-1503&theme=dark" alt="Divyansh Bhola GitHub Stats" />
-  <br><br>
-  
-</div>
