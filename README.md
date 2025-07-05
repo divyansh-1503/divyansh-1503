@@ -25,7 +25,7 @@
 
 ### LEETCODE PROFILES
 
-#### Primary Profile
+#### Profile 1:
 <p align="left">
   <a href="https://leetcode.com/u/divyansh5464/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Divyansh Bhola LeetCode" height="30" width="40" />
@@ -41,7 +41,7 @@
   </a>
 </div>
 
-#### Secondary Profile
+#### Profile 2:
 <p align="left">
   <a href="https://leetcode.com/u/divyansh-1503/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Divyansh Bhola Second LeetCode" height="30" width="40" />
