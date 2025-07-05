@@ -25,6 +25,7 @@
 
 ### LEETCODE PROFILES
 
+#### Profile 1
 <div align="left">
   <a href="https://leetcode.com/u/divyansh5464/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Divyansh Bhola LeetCode" height="40" width="40" />
@@ -37,6 +38,8 @@
     <img src="https://leetcard.jacoblin.cool/divyansh5464?theme=dark" alt="Divyansh Bhola LeetCode Stats" />
   </a>
 </div>
+
+#### Profile 2
 <div align="left">
   <a href="https://leetcode.com/u/divyansh-1503/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Divyansh Bhola Second LeetCode" height="40" width="40" />
