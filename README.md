@@ -26,12 +26,15 @@
 ### LEETCODE PROFILES
 
 #### Primary Profile
-<div align="left">
+<p align="left">
   <a href="https://leetcode.com/u/divyansh5464/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Divyansh Bhola LeetCode" height="40" width="40" />
-    <p>divyansh5464</p>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Divyansh Bhola LeetCode" height="30" width="40" />
   </a>
-</div>
+  <a href="https://leetcode.com/u/divyansh5464/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-divyansh5464-orange?style=flat-square&logo=leetcode" alt="LeetCode Badge" />
+  </a>
+  <p>Divyansh5464</p>
+</p>
 
 <div align="center">
   <a href="https://leetcode.com/u/divyansh5464/" target="_blank">
@@ -40,12 +43,15 @@
 </div>
 
 #### Secondary Profile
-<div align="left">
+<p align="left">
   <a href="https://leetcode.com/u/divyansh-1503/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Divyansh Bhola Second LeetCode" height="40" width="40" />
-    <p>divyansh-1503</p>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Divyansh Bhola Second LeetCode" height="30" width="40" />
   </a>
-</div>
+  <a href="https://leetcode.com/u/divyansh-1503/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-divyansh_1503-orange?style=flat-square&logo=leetcode" alt="Second LeetCode Badge" />
+  </a>
+  <p> Divyansh1503</p>
+</p>
 
 <div align="center">
   <a href="https://leetcode.com/u/divyansh-1503/" target="_blank">
