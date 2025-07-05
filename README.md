@@ -10,8 +10,8 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">I'm Divyansh Bhola, a software enthusiast dedicated to learn and grow.<br><br>
-- 🔭 I’m currently working on my skills in Data Structures and Algorithms.<br>
-- 🌱 I’m currently learning to solve real world problems with the help of my coding skills.<br>
+- 🔭 I'm currently working on my skills in Data Structures and Algorithms.<br>
+- 🌱 I'm currently learning to solve real world problems with the help of my coding skills.<br>
 - ⚡ In my free time, I like to explore new technologies and work on personal projects.
 </p>
 
@@ -23,14 +23,13 @@
 
 ---
 
-### LEETCODE
+### LEETCODE PROFILES
+
+#### Primary Profile
+<p align="left">
   <a href="https://leetcode.com/u/divyansh5464/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Divyansh Bhola LeetCode" height="30" width="40" />
   </a>
- 
-</p>
-
-<p align="left">
   <a href="https://leetcode.com/u/divyansh5464/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-divyansh5464-orange?style=flat-square&logo=leetcode" alt="LeetCode Badge" />
   </a>
@@ -39,6 +38,22 @@
 <div align="center">
   <a href="https://leetcode.com/u/divyansh5464/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/divyansh5464?theme=dark" alt="Divyansh Bhola LeetCode Stats" />
+  </a>
+</div>
+
+#### Secondary Profile
+<p align="left">
+  <a href="https://leetcode.com/u/divyansh-1503/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Divyansh Bhola Second LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/divyansh-1503/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-your_second_username-orange?style=flat-square&logo=leetcode" alt="Second LeetCode Badge" />
+  </a>
+</p>
+
+<div align="center">
+  <a href="https://leetcode.com/u/divyansh-1503/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/your_second_username?theme=dark" alt="Divyansh Bhola Second LeetCode Stats" />
   </a>
 </div>
 
@@ -51,5 +66,3 @@
 </div>
 
 ---
-
-
