@@ -25,40 +25,35 @@
 
 ### LEETCODE PROFILES
 
-<table>
-  <tr>
-    <th>Profile</th>
-    <th>Stats</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://leetcode.com/u/divyansh5464/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40" alt="LeetCode" />
-        <br/>
-        <span style="color: #FFA116;">divyansh5464</span>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://leetcode.com/u/divyansh5464/" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/divyansh5464?theme=dark" alt="LeetCode Stats" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://leetcode.com/u/divyansh-1503/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40" alt="LeetCode" />
-        <br/>
-        <span style="color: #FFA116;">divyansh-1503</span>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://leetcode.com/u/divyansh-1503/" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/divyansh-1503?theme=dark" alt="LeetCode Stats" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### Profile 1
+<div align="center">
+  <a href="https://leetcode.com/u/divyansh5464/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40" alt="LeetCode" />
+    <br/>
+    <span style="color: #FFA116;">divyansh5464</span>
+  </a>
+  <br/>
+  <a href="https://leetcode.com/u/divyansh5464/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/divyansh5464?theme=dark" alt="LeetCode Stats" />
+  </a>
+</div>
+
+### Profile 2
+<div align="center">
+  <a href="https://leetcode.com/u/divyansh-1503/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40" alt="LeetCode" />
+    <br/>
+    <span style="color: #FFA116;">divyansh-1503</span>
+  </a>
+  <br/>
+  <a href="https://leetcode.com/u/divyansh-1503/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/divyansh-1503?theme=dark" alt="LeetCode Stats" />
+  </a>
+</div>
+
+</div>
 
 ---
 
