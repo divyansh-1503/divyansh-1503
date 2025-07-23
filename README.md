@@ -43,22 +43,6 @@
   </a>
 </div>
 
-#### Secondary Profile
-<p align="left">
-  <a href="https://leetcode.com/u/divyansh-1503/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Divyansh Bhola Second LeetCode" height="30" width="40" />
-  </a>
-  <br></br>
-  <a href="https://leetcode.com/u/divyansh-1503/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-divyansh_1503-orange?style=flat-square&logo=leetcode" alt="Second LeetCode Badge" />
-  </a>
-</p>
-
-<div align="center">
-  <a href="https://leetcode.com/u/divyansh-1503/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/divyansh-1503?theme=dark" alt="Divyansh Bhola Second LeetCode Stats" />
-  </a>
-</div>
 
 ---
 
