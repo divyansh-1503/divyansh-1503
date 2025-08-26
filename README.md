@@ -18,8 +18,7 @@
 ### Connect with me:
 <br>
 <a href="https://www.linkedin.com/in/divyansh-bhola/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30"/>
-  Divyansh Bhola
+  <img src="https://img.shields.io/badge/Linked%In-1E90FF?style=for-the-badge" alt="LinkedIn" />
 </a>
 <br>
 <a href="https://youtube.com/@coding-chronicle-015d" target="_blank">
