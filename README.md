@@ -25,7 +25,7 @@
 <p>
   <a href="https://youtube.com/@coding-chronicle-015d" target="_blank">
     <img src="https://i.imgur.com/Qj4Xm4J.png" alt="YouTube Logo" height="20"/>
-    Divyansh Bhola
+
   </a>
 </p>
 
