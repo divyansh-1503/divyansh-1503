@@ -89,7 +89,7 @@
 
 ### 🎥 YouTube Channel
 <p align="left">
-  <a href="https://www.youtube.com/Coding Chronicle" target="_blank">
+  <a href="https://www.youtube.com/channel/UCJyAfPTT1QWNLILBJpyMuzw" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" height="40" width="40" />
   </a>
 </p>
