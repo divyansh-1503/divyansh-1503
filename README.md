@@ -80,6 +80,7 @@
   <a href="https://proprephub.vercel.app/" target="_blank">
     🔗 ProPrepHub
   </a>
+  <br>
   <a href="https://dsa-visualizer-ten-lyart.vercel.app/" target="_blank">
     🔗 DSA-VISUALIZER
   </a>
@@ -89,7 +90,7 @@
 
 ### 🎥 YouTube Channel
 <p align="left">
-  <a href="https://www.youtube.com/channel/UCJyAfPTT1QWNLILBJpyMuzw" target="_blank">
+  <a href="https://youtube.com/@coding-chronicle-015d" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" height="40" width="40" />
   </a>
 </p>
