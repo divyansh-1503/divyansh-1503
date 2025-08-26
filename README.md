@@ -20,10 +20,11 @@
   <a href="https://www.linkedin.com/in/divyansh-bhola/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Divyansh Bhola LinkedIn" height="30" width="40" />
   </a>
-  <br>
-   <a href="https://youtube.com/@coding-chronicle-015d" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
+  <a href="https://youtube.com/@coding-chronicle-015d" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Divyansh Bhola YouTube" height="30" width="40" />
   </a>
+</p>
+
 ---
 
 ### LEETCODE PROFILES
