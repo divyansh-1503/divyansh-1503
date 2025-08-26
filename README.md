@@ -16,15 +16,18 @@
 </p>
 
 ### Connect with me:
-<br>
-<a href="https://www.linkedin.com/in/divyansh-bhola/" target="_blank">
-  <img src="https://img.shields.io/badge/Linked%In-1E90FF?style=for-the-badge" alt="LinkedIn" />
-</a>
-<br>
-<a href="https://youtube.com/@coding-chronicle-015d" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" />
-  Divyansh Bhola
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/divyansh-bhola/" target="_blank">
+    <img src="https://i.imgur.com/rM7p4Xq.png" alt="LinkedIn Logo" alt="Linked in" height="20"/>
+  
+  </a>
+</p>
+<p>
+  <a href="https://youtube.com/@coding-chronicle-015d" target="_blank">
+    <img src="https://i.imgur.com/Qj4Xm4J.png" alt="YouTube Logo" height="20"/>
+    Divyansh Bhola
+  </a>
+</p>
 
 
 ---
