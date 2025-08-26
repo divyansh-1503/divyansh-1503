@@ -64,34 +64,35 @@
 
 ---
 
-
 <h3 align="left">📂 Projects</h3>
 
 <p align="left">
-  <!-- Example Project -->
   <a href="https://divyansh-port.netlify.app/" target="_blank">
-    🔗 Portfolio Website
+    <img src="https://img.shields.io/badge/Portfolio%20Website-000000?style=for-the-badge" alt="Portfolio Website" />
+<!--     &logo=github&logoColor=white -->
   </a>
-  <br>
   <a href="https://infinity-courses.netlify.app/" target="_blank">
-    🔗 Infinity Courses
+    <img src="https://img.shields.io/badge/Infinity%20Courses-1E90FF?style=for-the-badge" alt="Infinity Courses" />
+<!--     &logo=github&logoColor=white -->
   </a>
-  <br>
   <a href="https://proprephub.vercel.app/" target="_blank">
-    🔗 ProPrepHub
+    <img src="https://img.shields.io/badge/ProPrepHub-FF4500?style=for-the-badge" alt="ProPrepHub" />
+<!--     &logo=github&logoColor=white -->
   </a>
-  <br>
   <a href="https://dsa-visualizer-ten-lyart.vercel.app/" target="_blank">
-    🔗 DSA-VISUALIZER
+    <img src="https://img.shields.io/badge/DSA--Visualizer-228B22?style=for-the-badge" alt="DSA-Visualizer" />
+<!--     &logo=github&logoColor=white -->
   </a>
 </p>
 
 ---
 
-### 🎥 YouTube Channel
+<h3 align="left">🎥 YouTube Channel</h3>
+
 <p align="left">
   <a href="https://youtube.com/@coding-chronicle-015d" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" height="40" width="40" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
   </a>
 </p>
+
 
