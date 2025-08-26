@@ -59,10 +59,38 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="50" height="50" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-line-wordmark.svg" alt="vercel" width="50" height="50" /> -->
-
-
-
-          
+         
   </div>
 
 ---
+
+
+<h3 align="left">📂 Projects</h3>
+
+<p align="left">
+  <!-- Example Project -->
+  <a href="https://divyansh-port.netlify.app/" target="_blank">
+    🔗 Portfolio Website
+  </a>
+  <br>
+  <a href="https://infinity-courses.netlify.app/" target="_blank">
+    🔗 Infinity Courses
+  </a>
+  <br>
+  <a href="https://proprephub.vercel.app/" target="_blank">
+    🔗 ProPrepHub
+  </a>
+  <a href="https://dsa-visualizer-ten-lyart.vercel.app/" target="_blank">
+    🔗 DSA-VISUALIZER
+  </a>
+</p>
+
+---
+
+### 🎥 YouTube Channel
+<p align="left">
+  <a href="https://www.youtube.com/Coding Chronicle" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" height="40" width="40" />
+  </a>
+</p>
+
