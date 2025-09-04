@@ -23,6 +23,7 @@ I'm Divyansh Bhola, a software enthusiast dedicated to learn and grow.<br><br>
 <p align="left">
   <a href="https://www.linkedin.com/in/divyansh-bhola/" target="_blank" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <br>
   </a>
   <a href="https://youtube.com/@coding-chronicle-015d" target="_blank" style="text-decoration:none; margin-left:10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
