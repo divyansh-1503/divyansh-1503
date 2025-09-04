@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="https://github.com/divyansh-1503/divyansh-1503/blob/3ce1768ea991e79626374f0e6ba1fde50e43a959/Divyansh.mp4" alt="Divyansh Bhola Banner" width="100%" />
-</div>
+<video align="center" autoplay loop muted>
+  <source src="https://github.com/divyansh-1503/divyansh-1503/blob/3ce1768ea991e79626374f0e6ba1fde50e43a959/Divyansh.mp4" alt="Divyansh Bhola Banner" width="100%>
+</video>
+
 
 <h1 align="center">Hello Everyone👋, I'm Divyansh Bhola</h1>
 <h3 align="center">A dedicated self-learner.</h3>
