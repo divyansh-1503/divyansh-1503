@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/divyansh-1503/divyansh-1503/blob/f415b414c271676ba227f5099c02b6dd8ac7c2c5/Divyansh.gif?raw=true" 
-       alt="Divyansh Bhola Banner" width="100%" />
+       alt="Divyansh Bhola Banner" width="150%" height="80%"/>
 </p>
 
 <h1 align="center">Hello Everyone👋, I'm Divyansh Bhola</h1>
