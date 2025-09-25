@@ -3,7 +3,7 @@
   <img src="https://github.com/divyansh-1503/divyansh-1503/blob/4aaace1f0b735a4e638a7db027edafe99350ca97/wmremove-transformed.png"
        alt="Divyansh Bhola Banner"
        width="100%"
-       style="height:350px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.25);" />
+       style="height:300px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.25);" />
 </p>
 
 <h1 align="center">Hello Everyone👋, I'm Divyansh Bhola</h1>
