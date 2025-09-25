@@ -1,6 +1,9 @@
+<!-- GitHub Profile Banner -->
 <p align="center">
-  <img src="https://github.com/divyansh-1503/divyansh-1503/blob/e58c27f5382d8930d5d05c9074594a08607c1e71/wmremove-transformed.png" 
-       alt="Divyansh Bhola Banner" width="100%" height="250px" style="object-fit: cover;" />
+  <img src="https://github.com/divyansh-1503/divyansh-1503/blob/main/assets/divyansh-banner.png"
+       alt="Divyansh Bhola Banner"
+       width="100%"
+       style="max-height: 280px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.25);" />
 </p>
 
 <h1 align="center">Hello Everyone👋, I'm Divyansh Bhola</h1>
