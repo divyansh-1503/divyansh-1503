@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/divyansh-1503/divyansh-1503/blob/f415b414c271676ba227f5099c02b6dd8ac7c2c5/Divyansh.gif?raw=true" 
+  <img src="https://github.com/divyansh-1503/divyansh-1503/blob/e58c27f5382d8930d5d05c9074594a08607c1e71/wmremove-transformed.png" 
        alt="Divyansh Bhola Banner" width="100%" height="250px" style="object-fit: cover;" />
 </p>
 
