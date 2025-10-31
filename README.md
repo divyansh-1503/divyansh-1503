@@ -38,13 +38,13 @@ I'm Divyansh Bhola, a software enthusiast dedicated to learn and grow.<br><br>
 ### 🏆 LeetCode Profiles
 
 <p align="left">
-  <a href="https://leetcode.com/u/divyansh5464/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Divyansh Bhola LeetCode" height="30" width="40" />
-  </a>
-  <br>
   <!-- <a href="https://leetcode.com/u/divyansh5464/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-divyansh5464-orange?style=flat-square&logo=leetcode" alt="LeetCode Badge" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Divyansh Bhola LeetCode" height="30" width="40" />
   </a> -->
+  <br>
+  <a href="https://leetcode.com/u/divyansh5464/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-divyansh5464-orange?style=flat-square&logo=leetcode" alt="LeetCode Badge" />
+  </a>
 </p>
 
 <div align="center">
