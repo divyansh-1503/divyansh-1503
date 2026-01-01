@@ -82,8 +82,8 @@ I'm Divyansh Bhola, a software enthusiast dedicated to learn and grow.<br><br>
     <img src="https://img.shields.io/badge/Infinity%20Courses-1E90FF?style=for-the-badge" alt="Infinity Courses" />
   </a>
   <br>
-  <a href="https://proprephub.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/ProPrepHub-FF4500?style=for-the-badge" alt="ProPrepHub" />
+  <a href="https://prephub-sigma.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PrepHub-FF4500?style=for-the-badge" alt="PrepHub" />
   </a>
   <br>
   <a href="https://dsa-visualizer-ten-lyart.vercel.app/" target="_blank">
